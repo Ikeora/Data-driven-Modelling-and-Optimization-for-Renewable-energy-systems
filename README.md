@@ -52,7 +52,9 @@ Shows clustering of generated scenarios in 2D space with medoids (representative
 ![Diagram](img/clustering.png)
 
 **Representative Scenario Plots**  
+
 For each medoid scenario, wind, solar, and load residuals are plotted together to visualize temporal dynamics.
+
 ![Diagram](img/synthetic.png)
 ---
 
