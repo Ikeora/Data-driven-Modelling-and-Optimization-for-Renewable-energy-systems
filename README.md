@@ -49,11 +49,11 @@ Integrating high shares of renewable energy (wind and solar) into Alberta’s gr
 
 **Scenario Reduction Visualization (PCA projection)**  
 Shows clustering of generated scenarios in 2D space with medoids (representative scenarios) highlighted.
-![Diagram](img/Screenshot 2025-08-08 201159.png)
+![Diagram](img/clustering.png)
 
 **Representative Scenario Plots**  
 For each medoid scenario, wind, solar, and load residuals are plotted together to visualize temporal dynamics.
-
+![Diagram](img/synthetic.png)
 ---
 
 ## 🛠️ Technologies Used
